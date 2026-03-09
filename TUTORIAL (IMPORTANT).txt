@@ -1,0 +1,16 @@
+pkg update
+pkg upgrade
+pkg install git nodejs nodejs-lts
+pkg install yarn
+
+If you already done the upper start here
+ 
+cd /sdcard/271k
+yarn install
+
+After this is done open the bot folder in any file manager (i recommend Mt manager) and go into node_modules search for @whiskeysockets and delete it.  
+
+Now move the @whiskeysockets folder from the bot in the node_modules folder and you are ready to go
+
+
+Start command: node .

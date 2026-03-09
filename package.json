@@ -1,0 +1,33 @@
+{
+  "name": "271k",
+  "version": "2.7.1",
+  "description": "Professional anti jew bot base",
+  "keywords": [
+    "antijew",
+    "jewhunter",
+    "they are watching"
+  ],
+  "license": "ISC",
+  "author": "Some true germanic named snowi",
+  "type": "commonjs",
+  "main": "./SS/tata.js",
+  "scripts": {
+    "test": "node ./SS/tata.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "performance-now": "^2.1.0",
+    "cache-manager": "^7.2.4",
+    "chalk": "^4.1.2",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.47",
+    "node-cache": "^5.1.2",
+    "path": "^0.12.7",
+    "pino": "^9.6.0",
+    "readline": "^1.3.0",
+    "wa-sticker-formatter": "^4.4.4",
+    "yargs": "^17.7.2"
+  }
+}
